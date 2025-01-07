@@ -1,6 +1,6 @@
 ﻿# Data Exploration and Mining
 
-## Assignment 2A: Project
+Author: Eliza Fury
 
 ### Overview
 
